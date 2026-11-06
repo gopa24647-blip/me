@@ -1,6 +1,6 @@
 ### Hi there, I'm Maz1cks 👋 
 
-### Full Stack Developer from New York
+###  Developer from Moscow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ВАШ_ПРОФИЛЬ)
 [![Tiktok](
@@ -11,9 +11,9 @@ https://www.tiktok.com/@maz1cks?_r=1&_t=ZS-9BAsKhENE0K
 ---
 
 ### 👨‍💻  About me:
-- 🌱  I'm currently learning **Web3, GameDev**
-- ✍️  I regularly write articles on [Medium](https://medium.com/@Maz1cks)
-- 📄  Know about my experiences 
+- 🌱  I'm currently learning **Web3, Webdev**
+- ✍️  I love playing Counter-Strike 2
+- 📄  I love building websites and doing design
 - 📫  Reach me by , [Email](google:gopa24647@gmail.com)
 - 🗣️  I speak English
 
